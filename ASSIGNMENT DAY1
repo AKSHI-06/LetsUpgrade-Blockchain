@@ -1,0 +1,27 @@
+QUESTION 1
+What is your understanding of blockchain?
+ANS: It is a mix of technology: distributed database and cryptography.These technologies will create much needed transparency and trust in system by removing the middleman. A blockchain is a constantly growing ledger that keeps a permanent record of all the transactions that have taken place, in a secure chronological and immutable way in a decentralised distributed manner.
+QUESTION 2
+What is the core problem blockchain is trying to solve?
+ANS:The problems Block Chain trying to solve are as follows :
+1.Authencity of data
+2.Security
+3.Need third part trust
+QUESTION 3
+What are the few features blockchain will give you?
+ANS: The features of Block Chain Technology are as follows:
+1.Verifiable
+2.Immutable
+3.Tamper Proof
+4.Unchangeable
+QUESTION 4
+What all things does a block contain?
+A block contains:
+1. Block number
+2. Transaction Record
+3. Previous Digital Signature
+4. Mining Key
+QUESTION 5:
+How is the verifiabilty of blockchain has been attained?
+BlockChain is a distributed database, if any change is made to a block, change will be reflected in others blocks too because the fingerprints will also change. So change can easily be tracked and hence verification can be attained.
+PREVIOUS FINGERPRINT+NEW DATA =CURRENT FINGERPRINT.
